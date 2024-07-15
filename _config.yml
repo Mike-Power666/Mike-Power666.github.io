@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Michael Power"
 title_separator          : ""
 name                     : &name "Michael Power"
 description              : &description "Theoretical Physicist"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Mike-Power666"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "powerhouse6661"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "so-lackingindeeps9291"
   zhihu            : # URL
 
 
