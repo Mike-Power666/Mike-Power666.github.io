@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+<!-- Publications section is currently under construction -->
 
 Under Construction
 
