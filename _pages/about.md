@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mike, a soon-to-be PhD student working under Dr Chris Matzner at the Canadian Institute for Theoretical Astrophysics (CITA) at the University of Toronto. 
+Hi! I'm Mike, a soon-to-be PhD student working under Dr. Chris Matzner at the Canadian Institute for Theoretical Astrophysics (CITA) at the University of Toronto. 
 
 My Work and Research Interests
 ------
-I'm interested in theoretical astrophysics, and I am particularly interested in non-ideal magnetohydrodynamics (MHD) and plasmas. I like to walk the line and bridge the gap between pure theoretical and computational work. During my undergraduate studies with Dr. David Clarke, I developed a theoretical model for multifluid ambipolar diffusion with realistic ionization and associated energy and momentum transfer. Before that, I dabbled in some statistical mechanics with Dr Geoffrey Lee-Dadswell and developed a mathematical model of "chain-breaking" for "ding-a-ling" chains in a Lennard-Jones potential. Most recently, working with Dr. Hilding Neilson for my MSc, I developed a new host of algorithms for the astrophysical MHD code ZEUS-3D. These algorithms allow Zeus to simulate bow shocks formed during the interaction between a stellar wind and a local interstellar medium (ISM). These routines include the ability for Zeus to calculate the observed polarization signal, assuming the case of optically thin Thomson scattering. 
+I'm interested in theoretical astrophysics, and I am particularly interested in non-ideal magnetohydrodynamics (MHD) and plasmas. I like to walk the line and bridge the gap between pure theoretical and computational work. During my undergraduate studies with Dr. David Clarke, I developed a theoretical model for multifluid ambipolar diffusion with realistic ionization and associated energy and momentum transfer. Before that, I dabbled in some statistical mechanics with Dr. Geoffrey Lee-Dadswell and developed a mathematical model of "chain-breaking" for "ding-a-ling" chains in a Lennard-Jones potential. Most recently, working with Dr. Hilding Neilson for my MSc, I developed a new host of algorithms for the astrophysical MHD code ZEUS-3D. These algorithms allow Zeus to simulate bow shocks formed during the interaction between a stellar wind and a local interstellar medium (ISM). These routines include the ability for Zeus to calculate the observed polarization signal, assuming the case of optically thin Thomson scattering. 
 
 During my PhD, I plan to develop algorithms and theory using non-ideal magnetohydrodynamics and plasma physics to solve some unanswered questions in star formation.
 
