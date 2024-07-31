@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+Professional Summary
+======
+Experienced researcher and educator with a strong background in physics and engineering. Proficient in advanced computational methods and passionate about teaching and mentoring students.
+
 Education
 ======
 * Master of Science in Physics, Memorial University of Newfoundland (September 2022 - August 2024)
@@ -21,6 +25,7 @@ Work experience
 ======
 * September 2022 - August 2024: Graduate student researcher and teaching assistant
   * Memorial University of Newfoundland
+  * Assisted in teaching undergraduate physics courses, graded assignments, and conducted lab sessions.
 
 * September 2022 - May 2024: Supply Teacher (mathematics, physics, general sciences)
   * Mount Pearl Senior High School
@@ -68,33 +73,32 @@ Work experience
   * Private Tutoring
   * Working with students facing challenges in mathematics and physics (high school and university)
 
-  Awards and Scholarships
+Awards and Scholarships
 ======
-* 2012 Lieutenant Governor’s Medal
-* 2013-2015 Dean’s Scholarship, Cape Breton University
-* 2013-2015 Dean’s Honour List, Cape Breton University
-* 2015 Cape Breton Professional Engineering Memorial Scholarship
-* 2015 Engineers Nova Scotia Entrance Scholarship
-* 2015 Engineers Nova Scotia Award
-* 2015 Silver Medal in Engineering (for highest GPA in class)
-* 2017 NSERC, Undergraduate Student Research Award
-* 2017 Saint Mary’s University Undergraduate Symposium Winner
-* 2018 Admitted to the President's Hall of Academic Excellence - Saint Mary's University
-* 2016-2018 Dean’s Honour List, Saint Mary’s University
-* 2022 Outstanding Teacher Award, Cabot High School
-* 2023 Commencement Speaker, Cabot High School (invited by the graduating class)
-* 2023-2024 NSERC, Canada Graduate Scholarships - Master’s Program
-* 2023-2024 Dean’s Scholarship, Memorial University of Newfoundland
 * 2024 Inducted as a Fellow of the School of Graduate Studies - Memorial University of Newfoundland
 * 2024 Commencement Speaker, Cabot High School (invited by the graduating class)
+* 2023-2024 Dean’s Scholarship, Memorial University of Newfoundland
+* 2023-2024 NSERC, Canada Graduate Scholarships - Master’s Program
+* 2023 Commencement Speaker, Cabot High School (invited by the graduating class)
+* 2018 Admitted to the President's Hall of Academic Excellence - Saint Mary's University
+* 2017 Saint Mary’s University Undergraduate Symposium Winner
+* 2017 NSERC, Undergraduate Student Research Award
+* 2016-2018 Dean’s Honour List, Saint Mary’s University
+* 2015 Silver Medal in Engineering (for highest GPA in class)
+* 2015 Engineers Nova Scotia Award
+* 2015 Engineers Nova Scotia Entrance Scholarship
+* 2015 Cape Breton Professional Engineering Memorial Scholarship
+* 2013-2015 Dean’s Honour List, Cape Breton University
+* 2013-2015 Dean’s Scholarship, Cape Breton University
+* 2012 Lieutenant Governor’s Medal
 
 Computational Skills
 ======
-* Proficient with Windows, Mac, and Linux operating systems, Microsoft Office, LaTeX, etc.
-* Skilled with academic research level FORTRAN, Python, and C++ computer programming.
-* Skilled in programming with OpenMP and MPI.
-* Skilled at utilizing Compute Canada’s Cedar Supercluster for parallel computation.
-* Skilled with various PASCO scientific laboratory apparatus.
+**Programming Languages**
+* FORTRAN, Python, C++
+
+**Tools and Technologies**
+* OpenMP, MPI, Compute Canada’s Cedar Supercluster
 
 Certifications
 ======
@@ -108,6 +112,7 @@ Research Publications
 * Lee-Dadswell, G. R., Barrett, N., & Power, M. (2017). Cluster Sizes in a Classical Lennard-Jones Chain. Physical Review E, 96(3). [DOI](https://doi.org/10.1103/PhysRevE.96.032144)
 
 In Progress
+======
 * Clarke, D. A., Power, M. T., & MacMackin, C. T. (n.d.). Adiabatic and isothermal, two- and one-fluid models for ambipolar diffusion. MNRAS.
 * Power, M. T., Neilson, H. R. (n.d.). The Curious Case of V CVn: Time-Dependent Hydrodynamic Simulations of Stellar Wind Bow Shocks. MNRAS.
 
@@ -117,8 +122,24 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Professional Affiliations
+======
+* Member, Canadian Association of Physicists (CAP)
+* Member, Canadian Astronomical Society (CASCA)
+
+Research Interests
+======
+* Non-ideal magnetohydrodynamics and plasma physics
+* Computational physics and numerical simulations
+* Star formation theory
+
+Languages
+======
+* English (Native)
+* German (Beginner)
