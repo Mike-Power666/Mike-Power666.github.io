@@ -95,7 +95,7 @@ Awards and Scholarships
 Computational Skills
 ======
 **Programming Languages**
-* FORTRAN, Python, C++
+* FORTRAN, Python, C++, Bash
 
 **Tools and Technologies**
 * OpenMP, MPI, Compute Canada’s Cedar Supercluster
@@ -115,18 +115,6 @@ In Progress
 ======
 * Clarke, D. A., Power, M. T., & MacMackin, C. T. (n.d.). Adiabatic and isothermal, two- and one-fluid models for ambipolar diffusion. MNRAS.
 * Power, M. T., Neilson, H. R. (n.d.). The Curious Case of V CVn: Time-Dependent Hydrodynamic Simulations of Stellar Wind Bow Shocks. MNRAS.
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
 
 Professional Affiliations
 ======
