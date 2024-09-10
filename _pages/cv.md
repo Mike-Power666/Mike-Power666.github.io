@@ -110,13 +110,15 @@ Certifications
 
 Research Publications
 ======
-* Power, M.T. (2018). On the Theory of Ambipolar Diffusion, with Applications to Astrophysical Jets (Honours dissertation). Retrieved from Saint Mary’s University Library Database. [Access](http://library2.smu.ca/handle/01/27887)
+* Power, M. T., Neilson, H. R. (2024). The Curious Case of V CVn. MNRAS (Under Review). [ArXiV Coming Soon]()
+* Power, M. T. (2024). The Curious Case of V CVn (Masters dissertation). [Access Coming Soon]()
+* Power, M. T. (2018). On the Theory of Ambipolar Diffusion, with Applications to Astrophysical Jets (Honours dissertation). [Access](http://library2.smu.ca/handle/01/27887)
 * Lee-Dadswell, G. R., Barrett, N., & Power, M. (2017). Cluster Sizes in a Classical Lennard-Jones Chain. Physical Review E, 96(3). [DOI](https://doi.org/10.1103/PhysRevE.96.032144)
 
 In Progress
 ======
+* Power, M. T., Neilson, H. R. (2024). A Stellar Wind Bow Shock and Polarization Calculator for ZEUS3D. JCP.
 * Clarke, D. A., Power, M. T., & MacMackin, C. T. (n.d.). Adiabatic and isothermal, two- and one-fluid models for ambipolar diffusion. MNRAS.
-* Power, M. T., Neilson, H. R. (n.d.). The Curious Case of V CVn: Time-Dependent Hydrodynamic Simulations of Stellar Wind Bow Shocks. MNRAS.
 
 Professional Affiliations
 ======
