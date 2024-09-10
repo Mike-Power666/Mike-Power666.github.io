@@ -1,16 +1,17 @@
 ---
-layout: page
+layout: archive
 title: "Former Students"
 permalink: /students/
+author_profile: true
 ---
 
-# Current Students
+## Current Students
 
 *No current students at this time.*
 
 ---
 
-# Former High School Students
+## Former High School Students
 
 *The following are some of my former high school students who took one of my advanced classes. They have since graduated and moved on to the next stage of their academic career. This information was given and shared with their permission, and any other former students who have graduated are also welcome to share this information if they would like their names included.*
 
