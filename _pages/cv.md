@@ -13,12 +13,14 @@ Experienced researcher and educator with a strong background in physics and engi
 
 Education
 ======
+* Doctor of Philosophy in Astronomy and Astrophysics, University of Toronto (September 2024 - Present)
 * Master of Science in Physics, Memorial University of Newfoundland (September 2022 - August 2024)
+  * Fellow of the School of Graduate Studies
 * Bachelor of Education Degree; Secondary Mathematics & Physics, Cape Breton University (January 2019 - July 2020)
-* Bachelor of Engineering Transfer Degree Program, Cape Breton University (September 2013 - April 2015)
-  * Diploma in Engineering
 * Bachelor of Science Degree in Physics with Honours, Saint Mary's University (January 2016 - April 2018)
   * Summa Cum Laude
+* Bachelor of Engineering Transfer Degree Program, Cape Breton University (September 2013 - April 2015)
+  * Diploma in Engineering
 * High School Diploma, Breton Education Centre (June 2013)
 
 Work experience
