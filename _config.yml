@@ -25,10 +25,10 @@ author:
   name             : "Michael Power"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Physicist"
-  location         : "Cape Breton, N.S."
-  employer         : "Memorial University of Newfoundland"
+  location         : "Toronto, ON"
+  employer         : "University of Toronto"
   uri              : # URL
-  email            : "michaeltp@mun.ca" 
+  email            : "michael.power@astro.utoronto.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "@so-lackingindeeps9291"
+  youtube          : "so-lackingindeeps9291"
   zhihu            : # URL
 
 
