@@ -17,13 +17,58 @@ author_profile: true
 
 <div class="table-responsive">
   <table>
-    | Name             | Graduation              | Undergraduate Degree                             | Graduate Degree                              | Achievements                             |
-|------------------|-------------------------|--------------------------------------------------|---------------------------------------------|------------------------------------------|
-| Connor Donovan   | Cabot High School (2024) | Engineering, Cape Breton University (Present)    |                                             |                                          |
-| Seamus Murphy    | Cabot High School (2024) | Engineering, Cape Breton University (Present)    |                                             |                                          |
-| Thomas Robinson  | Cabot High School (2024) | Engineering, Cape Breton University (Present)    |                                             |                                          |
-| Nate Briand      | Cabot High School (2023) | Computer Science, Dalhousie University (Present) |                                             | Seymour Schulich Scholarship, Governor General’s Medal |
-| Brayden Fricker  | Cabot High School (2023) | Electrical Engineering, Dalhousie University (Present) |                                        |                                          |
-| Connor MacDonald | Cabot High School (2023) | Medical Sciences, Dalhousie University (Present)  |                                             | Queen Elizabeth II Medal                 |
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Graduation</th>
+        <th>Undergraduate Degree</th>
+        <th>Graduate Degree</th>
+        <th>Achievements</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Connor Donovan</td>
+        <td>Cabot High School (2024)</td>
+        <td>Engineering, Cape Breton University (Present)</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Seamus Murphy</td>
+        <td>Cabot High School (2024)</td>
+        <td>Engineering, Cape Breton University (Present)</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Thomas Robinson</td>
+        <td>Cabot High School (2024)</td>
+        <td>Engineering, Cape Breton University (Present)</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Nate Briand</td>
+        <td>Cabot High School (2023)</td>
+        <td>Computer Science, Dalhousie University (Present)</td>
+        <td></td>
+        <td>Seymour Schulich Scholarship, Governor General’s Medal</td>
+      </tr>
+      <tr>
+        <td>Brayden Fricker</td>
+        <td>Cabot High School (2023)</td>
+        <td>Electrical Engineering, Dalhousie University (Present)</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Connor MacDonald</td>
+        <td>Cabot High School (2023)</td>
+        <td>Medical Sciences, Dalhousie University (Present)</td>
+        <td></td>
+        <td>Queen Elizabeth II Medal</td>
+      </tr>
+    </tbody>
   </table>
 </div>
