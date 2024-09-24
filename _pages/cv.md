@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download my CV (PDF)](/Website-Assets/CV_Power_Sept2024.pdf)
+
 # Michael T. Power  
 **Academic Curriculum Vitae**  
 **September 2024**
