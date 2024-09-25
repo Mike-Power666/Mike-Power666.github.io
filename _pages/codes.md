@@ -5,7 +5,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-<p>This page is a work in progress. I'm currently (very slowly) changing a lot of my old code, mostly written in Fortran77, to modern Fortran and to be modular.</p>
+<p>This page is a work in progress. I'm currently (very slowly) changing a lot of my old code, mostly written in Fortran77, to modern Fortran and to be modular. Coming soon (after I convert and modularize them)... My version of the Worm Hole Generation project from Kip Thorne for Interstellar, a Stellar Wind Bow Shock and Polarization Calculator for Zeus3D, my Riemann Problem Solver, my first MHD (magnetohydrodynamics) solver, my first SPH (smooth particle hydrodynamics) solver, and some other stuff too!</p>
 
 <h3>Available Code Repositories</h3>
 <ul>

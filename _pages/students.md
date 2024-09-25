@@ -13,7 +13,7 @@ author_profile: true
 
 ## Former High School Students
 
-*The following are some of my former high school students who took one of my advanced classes. They have since graduated and moved on to the next stage of their academic careers. Any other former students who have graduated not updated me about their current status are also welcome to share this information if they would like their names included! If any of this information needs to be updated, former students should let me know, especially the achievements category!*
+*The following are some of my former high school students who took one of my advanced classes. They have since graduated and moved on to the next stage of their academic careers. Any other former students who have graduated and not updated me about their current status are also welcome to share this information if they would like their names included! If any of this information needs to be updated, former students should let me know, especially the achievements category!*
 
 <div class="table-responsive">
   <table>
@@ -33,6 +33,13 @@ author_profile: true
         <td>Engineering, Cape Breton University (Present)</td>
         <td></td>
         <td></td>
+      </tr>
+      <tr>
+        <td>Jolie Fitzgerald-Burton</td>
+        <td>Cabot High School (2024)</td>
+        <td>X-Ray Sciences, Dalhousie University (Present)</td>
+        <td></td>
+        <td>DAL Entrance Scholarship</td>
       </tr>
       <tr>
         <td>Seamus Murphy</td>
