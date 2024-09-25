@@ -22,7 +22,7 @@ author_profile: true
         <th>Name</th>
         <th>Graduation</th>
         <th>Undergraduate Degree</th>
-        <th>Graduate Degree</th>
+        <th>Graduate Degree or Position</th>
         <th>Achievements</th>
       </tr>
     </thead>
