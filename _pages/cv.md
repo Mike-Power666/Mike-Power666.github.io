@@ -74,8 +74,8 @@ redirect_from:
 - Lee-Dadswell, G. R., Barrett, N., & Power, M. (2017). *Cluster Sizes in a Classical Lennard-Jones Chain*. Physical Review E, 96(3)
 
 ### Theses
-- Power, M. T. (2024). *The Curious Case of V CVn* (masters dissertation)
-- Power, M. T. (2018). *On the Theory of Ambipolar Diffusion, with Applications to Astrophysical Jets* (honours dissertation)
+- Power, M. T. (2024). *The Curious Case of V CVn* (masters dissertation) [Access Soon]
+- Power, M. T. (2018). *On the Theory of Ambipolar Diffusion, with Applications to Astrophysical Jets* (honours dissertation) [Access](https://library2.smu.ca/handle/01/27887)
 
 ### Manuscripts in Progress
 - Power, M. T., Neilson, H. R. (2024). *A Stellar Wind Bow Shock and Polarization Calculator for ZEUS3D*. JCP.
