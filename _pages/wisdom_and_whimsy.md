@@ -5,8 +5,6 @@ permalink: /wisdom_and_whimsy/
 author_profile: true
 ---
 
-# Wisdom & Whimsy
-
 This is a place for me to share open source documents (or comedy) which I have found particularly illuminating (I've only put two here to finally get the website up). Most documents will have been created by others, but some (when I get around to it) will be from yours truly.
 
 ## Downloadable Files
