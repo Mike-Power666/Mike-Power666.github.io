@@ -97,8 +97,7 @@ redirect_from:
 - "CBC On the Go" - Newfoundland Eclipse (2024)
 
 ## Computational Languages, Skills, and Technology
-- **Programming Languages:** Bash, C++, FORTRAN, MPI, OpenMP, Python
-- **Technologies:** Compute Canada's Cedar Supercluster
+Bash, C++, FORTRAN, MPI, OpenMP, Python, Compute Canada's Cedar Supercluster
 
 ## Certifications
 - ACENET Parallel Computing School Certificate of Completion

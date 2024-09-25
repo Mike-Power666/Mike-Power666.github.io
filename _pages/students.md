@@ -46,7 +46,7 @@ author_profile: true
         <td>Cabot High School (2024)</td>
         <td>Engineering, Cape Breton University (Present)</td>
         <td></td>
-        <td></td>
+        <td>Dean's Scholarship</td>
       </tr>
       <tr>
         <td>Nate Briand</td>
