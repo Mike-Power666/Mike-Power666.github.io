@@ -71,7 +71,7 @@ redirect_from:
 ## Publications
 ### Refereed Publications
 - Power, M. T., Neilson, H. R. (2024). *The Curious Case of V CVn*. MNRAS (pending submission; ArXiV link soon)
-- Lee-Dadswell, G. R., Barrett, N., & Power, M. (2017). *Cluster Sizes in a Classical Lennard-Jones Chain*. Physical Review E, 96(3)
+- Lee-Dadswell, G. R., Barrett, N., & Power, M. (2017). *Cluster Sizes in a Classical Lennard-Jones Chain*. Physical Review E, 96(3) [Access](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.032144)
 
 ### Theses
 - Power, M. T. (2024). *The Curious Case of V CVn* (masters dissertation) [Access Soon]
