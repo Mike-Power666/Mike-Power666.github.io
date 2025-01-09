@@ -17,8 +17,6 @@ redirect_from:
 - **Full Name:** Michael Thomas Power  
 - **Date of Birth:** April 27, 1995  
 - **Citizenship:** Canada  
-- **Home Address:** 358 Coxwell Avenue, Toronto, ON M4L 3B7, Canada  
-- **Home Phone:** 902-322-0452  
 - **Office Address:** Department of Astronomy and Astrophysics, University of Toronto, 60 St. George Street, Toronto, ON M5S 3H8, Canada
 
 ## Degrees
