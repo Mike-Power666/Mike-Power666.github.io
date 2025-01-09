@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV (PDF)](/assets/Files/CV_Power_Sept2024.pdf)
+[Download my CV (PDF)](/assets/Files/CV_Power_Jan2025.pdf)
 
 # Michael T. Power  
 **Academic Curriculum Vitae**  
